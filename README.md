@@ -18,5 +18,5 @@
 <img src="https://user-images.githubusercontent.com/67057523/132116744-0c4dbeed-92be-4cca-91d6-39ea00409337.PNG"></img>
  - Exchanges (name = test_exchange).
 <img src="https://user-images.githubusercontent.com/67057523/132116804-609c9a67-d3d6-43af-867b-7b8e9eb67e90.PNG"></img>
- - Khi Message còn trong Queue.
+ - Khi Message khi còn trong Queue.
 <img src="https://user-images.githubusercontent.com/67057523/132116933-fcff2beb-499c-4612-a9da-ca526a5446b6.PNG"></img>
